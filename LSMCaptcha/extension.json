@@ -1,0 +1,17 @@
+{
+	"name": "LSMCaptcha",
+	"MessagesDirs": {
+		"LSMCaptcha": [
+			"i18n"
+		]
+	},
+	"AutoloadClasses": {
+		"LSMCaptcha": "LSMCaptcha.class.php"
+	},
+	"config": {
+		"CaptchaClass": "LSMCaptcha",
+		"LSM_SITE_KEY": "",
+   "LSM_API_KEY": ""
+	},
+	"manifest_version": 1
+}
