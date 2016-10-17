@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"934131"
+		]
+	},
+	"lsmcaptcha-addurl": "您的編輯使用了新的外部連結。為了防止垃圾編輯程式，我們要麻煩您完成下面的驗證 ([[Special:Captcha/help|更多資訊]])：",
+	"lsmcaptcha-badlogin": "為了防止密碼破解程式，我們要麻煩您完成下面的驗證 ([[Special:Captcha/help|更多資訊]])：",
+	"lsmcaptcha-createaccount": "為了防止自動註冊程式，我們要麻煩您完成下面的驗證 ([[Special:Captcha/help|更多資訊]])：",
+	"lsmcaptcha-create": "若要建立此頁面，請完成下面的驗證 ([[Special:Captcha/help|更多資訊]])：",
+	"lsmcaptcha-edit": "若要編輯此頁面，請完成下面的驗證 ([[Special:Captcha/help|更多資訊]])：",
+	"lsmcaptcha-sendemail": "為了防止垃圾編輯程式，我們要麻煩您完成下面的驗證 ([[Special:Captcha/help|更多資訊]])：",
+	"lsmcaptchahelp-text": "開放大眾編輯的網站，如本 Wiki，時常會遭受惡意的人士使用自動化的程式將他們的垃圾連結散步到許多網站。\n雖然這些垃圾可以手動移除，但十足造成了困擾。\n\n某些時候，特別是在頁面新增網站連結時，Wiki 可能會讓您進行一項人機驗證，讓自動化的程式難以驗證，這讓真實的使用者可進行編輯貢獻的同時，阻止大部份自動化程式的攻擊。\n\n若這個功能在預料之外阻止你進行正常編輯，請與 [[Special:ListAdmins|管理員]] 聯繫取得協助。\n\n請點選瀏覽器的 \"返回\" 按鈕返回頁面編輯器。"
+}
