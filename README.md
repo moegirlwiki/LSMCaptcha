@@ -1,7 +1,6 @@
 # LSMCaptcha
 Luosimao人机验证 for Mediawiki
 ## 安装
-============================
 
 1.确保你已经安装ConfirmEdit插件（对于ConfirmEdit的其它配置，请查看其官网：https://m.mediawiki.org/wiki/Extension:ConfirmEdit）
 
@@ -31,3 +30,5 @@ $wgLSM_API_KEY="apikey";
 5.尽情享受新的人机验证吧！
 
 ============================
+## 关于
+作者：[934131](http://won.cx/)
