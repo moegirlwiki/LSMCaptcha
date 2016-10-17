@@ -3,6 +3,8 @@ Luosimao人机验证 for Mediawiki
 
 ## 下载
 
+[v1.0.0(2016-10-17)](https://github.com/Netrvin/LSMCaptcha/releases/tag/v1.0.0)
+
 ## 安装
 
 1.确保你已经安装ConfirmEdit插件（对于ConfirmEdit的其它配置，请查看其官网：[https://m.mediawiki.org/wiki/Extension:ConfirmEdit](https://m.mediawiki.org/wiki/Extension:ConfirmEdit)）
