@@ -1,8 +1,12 @@
 # LSMCaptcha
 Luosimao人机验证 for Mediawiki
+
+## 下载
+
+==
 ## 安装
 
-1.确保你已经安装ConfirmEdit插件（对于ConfirmEdit的其它配置，请查看其官网：https://m.mediawiki.org/wiki/Extension:ConfirmEdit）
+1.确保你已经安装ConfirmEdit插件（对于ConfirmEdit的其它配置，请查看其官网：[https://m.mediawiki.org/wiki/Extension:ConfirmEdit](https://m.mediawiki.org/wiki/Extension:ConfirmEdit)）
 
 ============================
 
@@ -20,7 +24,7 @@ require_once "$IP/extensions/ConfirmEdit/LSMCaptcha.php";
 
 ============================
 
-4.设置网站的sitekey和apikey，方法为在LocalSetting.php内添加如下代码（sitekey和apikey请用你自己申请获得的来替换，申请地址：https://luosimao.com/service/captcha）
+4.设置网站的sitekey和apikey，方法为在LocalSetting.php内添加如下代码（sitekey和apikey请用你自己申请获得的来替换，申请地址：[https://luosimao.com/service/captcha](https://luosimao.com/service/captcha)）
 
 $wgLSM_SITE_KEY="sitekey";
 $wgLSM_API_KEY="apikey";
